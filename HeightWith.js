@@ -16,7 +16,6 @@ console.log(d.scrollTop);
 console.log(p.scrollTop);
 
 
-
 console.log("offsetTop:");
 console.log(db.offsetTop);
 console.log(d.offsetTop);
